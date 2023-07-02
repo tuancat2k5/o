@@ -3,7 +3,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Callb
 import string
 import random
 
-TOKEN = "BOT_TOKEN"
+TOKEN = "6318404382:AAEUUmDCDljSl-OyE1qlFFW0SJmjfBfm47M"
 
 invitations = {}
 points = {}
